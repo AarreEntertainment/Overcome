@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.4f1 (8ffd0efd98b1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   9.17.10.4229
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\flappy dude pc\Overcome\overcome_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\flappy dude pc\Overcome\overcome_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\flappy dude pc\Overcome\overcome_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\flappy dude pc\Overcome\overcome_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\flappy dude pc\Overcome\overcome_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\flappy dude pc\Overcome\overcome_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\flappy dude pc\Overcome\overcome_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\flappy dude pc\Overcome\overcome_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\flappy dude pc\Overcome\overcome_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\flappy dude pc\Overcome\overcome_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\flappy dude pc\Overcome\overcome_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\flappy dude pc\Overcome\overcome_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.398 seconds
+Platform assembly: E:\flappy dude pc\Overcome\overcome_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\flappy dude pc\Overcome\overcome_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.813668 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ba4 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.511031 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 1.010930 ms (FindLiveObjects: 0.158147 ms CreateObjectMapping: 0.041519 ms MarkObjects: 0.315828 ms  DeleteObjects: 0.494502 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.442992 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1692.
+Total: 1.087438 ms (FindLiveObjects: 0.133422 ms CreateObjectMapping: 0.066244 ms MarkObjects: 0.368077 ms  DeleteObjects: 0.518761 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.167147 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1692.
+Total: 1.083706 ms (FindLiveObjects: 0.121759 ms CreateObjectMapping: 0.065778 ms MarkObjects: 0.379274 ms  DeleteObjects: 0.515495 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.257651 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1692.
+Total: 1.033323 ms (FindLiveObjects: 0.111029 ms CreateObjectMapping: 0.062512 ms MarkObjects: 0.387204 ms  DeleteObjects: 0.471176 ms)
+

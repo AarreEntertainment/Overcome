@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a9bc5c9de2695ee47a114e9d1eea530e
+timeCreated: 1501667722
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe Script
+  fontNames:
+  - Segoe Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5368cf4d0b01b4a4284b47208c89a8fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
